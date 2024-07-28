@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeavyGuitarRiffs
 - 👀 I’m interested in ...blockchain, programming, and design.
-- 🌱 I’m currently learning ... AWS and Node.js
+- 🌱 I’m currently remembering ... Java and Node.js
 - 💞️ I’m looking to collaborate on ...any projects in these industries.
 - 📫 How to reach me ...Telegram or Discord
 - 😄 Pronouns: ...He/Him
